@@ -1,0 +1,19 @@
+{
+  "jugadores": [
+    {
+      "id": 1,
+      "nombre": "Juan Manuel",
+      "cartas": [6,25,30,50,80]
+    },
+    {
+      "id": 2,
+      "nombre": "Juan",
+      "cartas": [4,7,1,100,250]
+    },
+    {
+      "id": 3,
+      "nombre": "Pablo",
+      "cartas": [700,800,70,90,250]
+    }
+  ]
+}
