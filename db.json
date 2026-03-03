@@ -3,17 +3,23 @@
     {
       "id": 1,
       "nombre": "Juan Manuel",
-      "cartas": [6,25,30,50,80]
+      "cartas": [6,25,30,50,80],
+      "usuario": "Juan12",
+      "contraseña": 1234
     },
     {
       "id": 2,
-      "nombre": "Juan",
-      "cartas": [4,7,1,100,250]
+      "nombre": "Sandro",
+      "cartas": [4,7,1,100,250],
+      "usuario": "Sandro24",
+      "contraseña": 4321
     },
     {
       "id": 3,
       "nombre": "Pablo",
-      "cartas": [700,800,70,90,251]
+      "cartas": [700,800,70,90,251],
+      "usuario": "PablitoClavito",
+      "contraseña": 3214
     }
   ]
 }
